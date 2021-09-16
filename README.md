@@ -1,7 +1,7 @@
 # Tuambie
 
 ## What is Tuambie App
-Tuambie is a swahili name meaning "Let us know". The app is intened to be used for creating surveys and having users fill them up.
+Tuambie is a swahili name meaning "Let us know". The app is intended to be used for creating surveys and having users fill them up.
 
 ## What features does the app have?
 
